@@ -28,7 +28,7 @@ A melhor linguagem é aquela que <strong>resolve o problema</strong> com maestri
 <h1>As skills que eu estou sempre estudando:</h1>
 
 <div style="display: inline_block">
-  <h2>Backend</h2>
+  <h2>Back-end</h2>
   <h1>Java</h1>
   
   <h2>Mobile</h2>
