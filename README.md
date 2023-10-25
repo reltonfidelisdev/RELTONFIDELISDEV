@@ -29,7 +29,7 @@ A melhor linguagem é aquela que <strong>resolve o problema</strong> com maestri
 
 <div style="display: inline_block">
   <h2>Backend</h2>
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <h1>Java</h1>
   
   <h2>Mobile</h2>
   <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
